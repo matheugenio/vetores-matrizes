@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5cfeca94-4303-4c0f-8083-781ef43f238d" name="Changes" comment="Segundo exercício concluído.">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
+    <list default="true" id="5cfeca94-4303-4c0f-8083-781ef43f238d" name="Changes" comment="Terceiro exercício concluído.">
+      <change afterPath="$PROJECT_DIR$/src/Exercicio4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +49,13 @@
     "Application.Exercicio1.executor": "Run",
     "Application.Exercicio2.executor": "Run",
     "Application.Exercicio3.executor": "Run",
+    "Application.Exercicio4.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercicio3">
+  <component name="RunManager" selected="Application.Exercicio4">
     <configuration name="Exercicio1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio1" />
       <module name="vetores-matrizes" />
@@ -76,8 +77,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Exercicio4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio4" />
+      <module name="vetores-matrizes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio4" />
         <item itemvalue="Application.Exercicio3" />
         <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.Exercicio1" />
@@ -117,13 +126,22 @@
       <option name="project" value="LOCAL" />
       <updated>1717779041872</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Terceiro exercício concluído.">
+      <option name="closed" value="true" />
+      <created>1717780394892</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1717780394892</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicialização do projeto" />
     <MESSAGE value="Primeiro exercício concluído." />
     <MESSAGE value="Segundo exercício concluído." />
-    <option name="LAST_COMMIT_MESSAGE" value="Segundo exercício concluído." />
+    <MESSAGE value="Terceiro exercício concluído." />
+    <option name="LAST_COMMIT_MESSAGE" value="Terceiro exercício concluído." />
   </component>
 </project>
